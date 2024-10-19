@@ -8,4 +8,4 @@ on:
 
 jobs:
   lint-and-audit:
-    uses: PSMRI/.github/workflows/lint_audit.yml@main
+    uses: PSMRI/.github/.github/workflows/lint_audit.yml@main
