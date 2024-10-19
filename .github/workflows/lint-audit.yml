@@ -1,6 +1,7 @@
 name: ESLint and NPM Audit
 
 on:
+  workflow_call:
   push:
     branches: [main, master, develop]
   pull_request:
